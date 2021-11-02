@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aziz/Desktop/Mobile/recycle/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Aziz/Desktop/Mobile/recycle/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.290625" />
         <entry key="..\:/Users/Aziz/Desktop/Mobile/recycle/app/src/main/res/layout/activity_main.xml" value="0.1526268115942029" />
         <entry key="..\:/Users/Aziz/Desktop/Mobile/recycle/app/src/main/res/layout/list_item.xml" value="0.1526268115942029" />
       </map>
